@@ -16,6 +16,7 @@ Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades em **
 [![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTMLn&logoColor=white)]()
 [![css](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css&logoColor=white)]()
 [![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)]()
+[![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 #### Ferramentas & Produtividade
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
